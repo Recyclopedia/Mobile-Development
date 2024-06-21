@@ -5,7 +5,7 @@
 <img src="https://github.com/Recyclopedia/Cloud-Computing/assets/98729562/450077c7-99a9-43a4-a418-da4ff2a5857c" alt="javascript" width="100" height="100">
 
 
-# **Members of Cloud Computing Division**:
+# **Members of Mobile Development Cohort**:
 | Learning Path | ID |  Name | University | Status |
 | --- | --- |  --- | --- |  --- |
 | Mobile Development | A004D4KY4191 |  Dylan Kaisar Hasya| Institut Teknologi Sepuluh Nopember |  Active |
